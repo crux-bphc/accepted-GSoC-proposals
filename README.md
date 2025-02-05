@@ -10,6 +10,8 @@ If you would like to submit your accepted proposal for GSoC or any other fellows
 
 ## [GSoC](https://summerofcode.withgoogle.com/)
 
+Guide: https://developers.google.com/open-source/gsoc/help/student-advice
+
 - [2024](./2024)
     - [Dart - Mudit Somani](./2024/Dart%20-%20Mudit%20Somani.pdf)
     - [UC OSPO - Palaniappan R](./2024/UC%20OSPO%20-%20Palaniappan%20R.pdf)
