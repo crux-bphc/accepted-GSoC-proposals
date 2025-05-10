@@ -10,17 +10,25 @@ If you would like to submit your accepted proposal for GSoC or any other fellows
 
 ## [GSoC](https://summerofcode.withgoogle.com/)
 
-Guide: https://developers.google.com/open-source/gsoc/help/student-advice
+Guide: <https://developers.google.com/open-source/gsoc/help/student-advice>
 
+- [2025](./2025)
+  - [Blender - Namit Bhutani](./2025/Blender%20-%20Namit%20Bhutani.pdf)
 - [2024](./2024)
-    - [Dart - Mudit Somani](./2024/Dart%20-%20Mudit%20Somani.pdf)
-    - [UC OSPO - Palaniappan R](./2024/UC%20OSPO%20-%20Palaniappan%20R.pdf)
+  - [Dart - Mudit Somani](./2024/Dart%20-%20Mudit%20Somani.pdf)
+  - [UC OSPO - Palaniappan R](./2024/UC%20OSPO%20-%20Palaniappan%20R.pdf)
 - [2023](./2023/)
-    - [GNU - Sarthak Shah](./2023/GNU%20-%20Sarthak%20Shah.pdf)
-    - [GNU - Saksham Attri](./2023/GNU%20-%20Saksham%20Attri.pdf)
+  - [GNU - Sarthak Shah](./2023/GNU%20-%20Sarthak%20Shah.pdf)
+  - [GNU - Saksham Attri](./2023/GNU%20-%20Saksham%20Attri.pdf)
 - [2022](./2022/)
-    - [Julia - Soumitra Shewale](./2022/Julia%20-%20Soumitra%20Shewale.pdf)
+  - [Julia - Soumitra Shewale](./2022/Julia%20-%20Soumitra%20Shewale.pdf)
 
+## [SoB](https://www.summerofbitcoin.org/)
+
+Guide: <https://guide.summerofbitcoin.org/>
+
+- [2025](./SoB/2025)
+  - [SeedSigner - Chaitanya Keyal](./SoB/2025/SeedSigner%20-%20Chaitanya%20Keyal.pdf)
 
 ### Thanks
 
